@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstFirework</string>
+    <string name="sign_in_account">メールアドレス</string>
+    <string name="sign_in_password">パスワード</string>
+    <string name="sing_in_register">登録</string>
+    <string name="profile_first_name">名前</string>
+    <string name="profile_last_name">名字</string>
+    <string name="profile_apply">変更</string>
+</resources>
